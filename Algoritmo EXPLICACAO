@@ -1,0 +1,13 @@
+algoritmo: 
+"escola"
+
+var:
+"estuda"
+
+inicio:
+ 
+ 
+#1 <ter nota vermelha ou azul>
+#2 <limite de faltas>
+
+fim algoritmo
