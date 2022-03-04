@@ -1,8 +1,8 @@
-#include <studio.h>
+#include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
 
-   int main (void)
+   int main ()
      
    {
      float y;
