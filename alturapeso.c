@@ -3,7 +3,8 @@
 #include <locale.h>
 
 int main()
-  
+ 
+{
   printf("Este programa verifica o peso e a altura para servir o exercito. \n\n ");
   float altura, peso;
  
@@ -17,6 +18,7 @@ int main()
     printf ("O candidato pode fazer inscrição. \n") ;
     printf ("Parabens!\n");
   }
+  
   else 
       printf(" O candidato não passou na seleção") ;
   return 0;
