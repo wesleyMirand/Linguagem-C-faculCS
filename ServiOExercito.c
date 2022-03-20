@@ -20,5 +20,6 @@ int main()
   }
   
   else 
-      printf(" o candidato não passou na seleção") ;
+      printf(" o candidato não passou na seleção. \n") ;
   return 0;
+}
