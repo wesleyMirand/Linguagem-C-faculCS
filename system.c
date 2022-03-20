@@ -1,5 +1,5 @@
 #include <stdio.h>
-#inlucde <stdlib.h>
+#include <stdlib.h>
 #include <math.h>
 
 {
