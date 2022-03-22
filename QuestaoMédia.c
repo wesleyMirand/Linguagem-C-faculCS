@@ -16,5 +16,7 @@
    media = (notap1+notap2+multi) /2;
    printf("a sua nota final eh:%.1f \n \n ",media);
    get char();
+     
+     return 0;
    }
-   return 0;
+   
