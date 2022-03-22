@@ -8,7 +8,8 @@ int main ()
  float x;
   
  printf("o valor de x eh %.1f \n \n ", (1-(1.0/2) / (1-1.0(1-(1.0/2)));
+                                        
+                                        return 0;
 
 }
 
-return 0;
