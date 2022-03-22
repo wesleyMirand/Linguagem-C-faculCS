@@ -9,6 +9,7 @@
    
    printf("o valor da var eh : %d \n \n",7);
    printf("o valor da constante eh : %f \n \n", 3.14);
+  
+  return 0;
  }
 
-return 0;
