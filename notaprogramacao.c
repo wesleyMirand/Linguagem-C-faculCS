@@ -7,4 +7,4 @@ int main ( )
  {
   printf("Eu quero tirar nota %d em linguagem de programacao \n\n",10);
  }
-  return 0;
+  
