@@ -5,5 +5,5 @@ int main ()
  int idade;
  float peso;
  char nome;
- return 0;
+
  }
