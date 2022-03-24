@@ -6,7 +6,7 @@
    int main ()
      
    {
-   print("este programa calcula a média final na fics");
+   printf("este programa calcula a média final na fics");
    float notap1, notap2, mult, media;
    printf("digite a nota da p1 e tecle enter: \n");
    scanf("%f",& notap1);
