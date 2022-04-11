@@ -5,7 +5,7 @@
 int main ()
 {
  float x;
- printf("O valor de x eh: %.2f \n \n ", 2-1.0/2);
+ printf("O valor de x eh: %.3f \n \n ", 2-1.0/2);
  
  return 0;
 }
