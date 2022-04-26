@@ -1,12 +1,3 @@
-/* ----------------------------
-	PARTICIPANTES:
-	WESLEY DOS SANTOS MIRANDA
-	LUIZ HENRIQUE VENTURA
-	JOÃO PEDRO SANTOS DA CRUZ
-	VINICIUS GONÇALVES DE SOUZA
-	ESTEVÃO MARCIAL VAN DUNEM
-------------------------------*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>
