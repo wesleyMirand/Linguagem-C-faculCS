@@ -8,7 +8,7 @@
      float y;
      int x;
      
-     printf("O valor de x eh: %d \n \n ", 2 + 3 *(-7) );
+     printf("O valor de x eh: %d \n \n ", 3 + 6 *(-8) );
      
      return 0;
      
